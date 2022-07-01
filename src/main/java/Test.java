@@ -282,7 +282,7 @@ public class Test {
     }
 
 
-
+/*Write a function that can find the remainder when dividing two positive integers (int a by int b) where int a is bigger than int b. The result is returned as an integer. You are not allowed to use the standard divide (/) or Modulo (%) function in the programming language.*/
     public static int remainder(int a, int b) {
         int sum = a;
 
